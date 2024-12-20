@@ -1,8 +1,10 @@
 ### Hi! I'm Aly Raffauf 👋
 
-I'm a tech enthusiast with a huge passion for libre software, GNU/Linux, and especially NixOS. The projects here span several carrier stops (academic, startup junkie, marketer) over 15 years, so some are a little dusty. These days I'm mainly exploring Nix + NixOS and managing my tiny fleet of servers strewn across my house.
+I'm a tech enthusiast with a passion for free/libre software, GNU/Linux, and especially NixOS. The projects here span several carrier stops (academic, startup junkie, marketer) over 15 years, so some are a little dusty. These days I'm mainly exploring Nix + NixOS and managing my tiny fleet of servers strewn across my house.
 
 Currently seeking new job opportunities and love making new friends in the tech world, so feel free to shoot me some mail! :) 
+
+![Aly's GitHub stats](https://github-readme-stats.vercel.app/api?username=alyraffauf&show_icons=true&theme=radical)
 
 <!--
 **alyraffauf/alyraffauf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
