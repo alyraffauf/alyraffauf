@@ -4,9 +4,7 @@ Hacker, tinkerer, cyclist. Occsasionally professional all-around computer touche
 
 Currently seeking new job opportunities and love making new friends in the tech world, so feel free to shoot me some mail! :) 
 
-![Aly's GitHub stats](https://github-readme-stats.vercel.app/api?username=alyraffauf&show_icons=true&theme=radical)
-
-![Aly's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alyraffauf&show_icons=true&layout=compact&theme=radical)
+![Aly's GitHub stats](https://github-readme-stats.vercel.app/api?username=alyraffauf&show_icons=true&theme=radical)  ![Aly's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alyraffauf&show_icons=true&layout=compact&theme=radical)
 
 <!--
 **alyraffauf/alyraffauf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
