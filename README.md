@@ -12,7 +12,7 @@ I put Linux on things that have no business running Linux, then keep them runnin
 
 **Infrastructure**
 
-Naturally, my (multiple) NixOS fleets are public too: [Infra](https://github.com/alyraffauf/infra), [Sinnoh](https://github.com/alyraffauf/sinnoh), [Johto](https://github.com/alyraffauf/johto).
+Naturally, my (multiple) NixOS fleets are public too: [Hoenn](https://github.com/alyraffauf/hoenn), [Sinnoh](https://github.com/alyraffauf/sinnoh), [Johto](https://github.com/alyraffauf/johto).
 
 I also dabble in the rpm-ostree/bootc space with custom distributions like [kyanite](https://github.com/alyraffauf/kyanite).
 
