@@ -1,4 +1,4 @@
-### Hi, I'm Aly Raffauf (she/they)
+### Hi, I'm Aly Raffauf
 
 I put Linux on things that have no business running Linux, then keep them running with NixOS. I am often doing too many things at once, and typically make it happen in Go, Python, Typescript, and Rust.
 
