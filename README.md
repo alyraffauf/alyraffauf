@@ -8,7 +8,7 @@ I put Linux on things that have no business running Linux, then keep them runnin
 - **[tg](https://tangled.org/aly.codes/tg)**. CLI Client for Tangled, the AT Protocol git forge.
 - **[atbbs](https://github.com/alyraffauf/atbbs)**. Decentralized web forums built on Atproto.
 - **[blzrd](https://github.com/alyraffauf/blzrd)**. Super fast NixOS fleet deployment tool.
-- **[tartarus](https://github.com/alyraffauf/tartarus)**. Build sandboxed, declarative AI agents in Nix.
+- **[tartarus](https://github.com/alyraffauf/tartarus)**. Sandboxed, declarative AI agent harnesses with Nix.
 
 **Infrastructure**
 
