@@ -1,8 +1,6 @@
 ### Hi, I'm Aly Raffauf
 
-I'm a software engineer working on AI tooling, opensource projects, and decentralized web protocols.
-
-I put Linux on things that have no business running Linux, then keep them running with NixOS. I am often doing too many things at once, and typically make it happen in Go, Python, Typescript, and Rust.
+I'm a software engineer working on AI tooling, [Nix](https://nix.dev/), opensource projects, and decentralized web protocols.
 
 **Recent Projects**
 
