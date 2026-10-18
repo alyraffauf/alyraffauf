@@ -5,9 +5,9 @@ I'm a software engineer working on AI tooling, [Nix](https://nix.dev/), opensour
 **Recent Projects**
 
 - **[switchyard](https://github.com/alyraffauf/switchyard)**. Rules-based browser launcher. Available on [Flathub](https://flathub.org/en/apps/io.github.alyraffauf.Switchyard).
-- **[tg](https://tangled.org/aly.codes/tg)**. CLI client + mcp server for [Tangled](https://tangled.org/), the [Atproto](https://atproto.com/) git forge.
+- **[tg](https://tangled.org/aly.codes/tg)**. CLI client + MCP server for [Tangled](https://tangled.org/), the [Atproto](https://atproto.com/) git forge.
 - **[atbbs](https://github.com/alyraffauf/atbbs)**. Decentralized web forums built on [Atproto](https://atproto.com/).
-- **[blzrd](https://github.com/alyraffauf/blzrd)**. Super fast NixOS fleet deployment tool in Rust.
+- **[blzrd](https://github.com/alyraffauf/blzrd)**. Super fast [NixOS](https://nixos.org/) fleet deployment tool in Rust.
 - **[tartarus](https://github.com/alyraffauf/tartarus)**. Minimally-permissioned, composable AI agents with Nix.
 
 **Infrastructure**
