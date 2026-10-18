@@ -14,8 +14,8 @@ I'm a software engineer working on AI tooling, [Nix](https://nix.dev/), opensour
 
 I also host free-to-use community [infrastructure](https://aly.town/), particularly in the Atproto space. 
 
-Naturally, my (multiple) NixOS fleets are public too: [Hoenn](https://github.com/devon-systems/hoenn), [Sinnoh](https://github.com/devon-systems/sinnoh), [Johto](https://github.com/devon-systems/johto).
+My (multiple) NixOS+Kubernetes fleets are public too: [Hoenn](https://github.com/devon-systems/hoenn), [Sinnoh](https://github.com/devon-systems/sinnoh), [Johto](https://github.com/devon-systems/johto).
 
-I also dabble in the rpm-ostree/bootc space with custom distributions like [kyanite](https://github.com/alyraffauf/kyanite).
+Additionally, I dabble in the rpm-ostree/bootc space with custom distributions like [kyanite](https://github.com/alyraffauf/kyanite).
 
 Find me on the web at [aly.codes](https://aly.codes), on Bluesky as [@aly.codes](https://bsky.app/profile/aly.codes), and on [tangled](https://tangled.org/aly.codes).
